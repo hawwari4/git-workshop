@@ -8,6 +8,6 @@ Login timeout: 30 seconds
 3. Change line 3 of this file to `Login timeout: 45 seconds`, then commit and push your branch
 4. When the trainer updates main, run `git pull origin main`, fix the conflict, and push
 5. Open a pull request on GitHub
-
+---> 
 ## Rules
 - Work on your own branch. Do not push to main.
